@@ -14,6 +14,7 @@ The following information is included for each state as available:
 
 Details for each state will be included here as they are compiled.
 
-|||||
-| --- | --- | --- | --- | 
-| [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) |
+| | | | |
+| --- | --- | --- | --- |
+| [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) | 
+| [California](california.md) | [Colorado](colorado.md) | [Connecticut](connecticut.md)| [Delaware](delaware.md)|
