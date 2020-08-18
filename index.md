@@ -4,7 +4,7 @@ This is a state-by-state breakdown of how to request and return an absentee/mail
 
 ---
 **_DISCLAIMER:_**
-_Any errors or mistakes in the information compiled here are unintentional. Please use at your own risk. This is not meant to be a substitute for information from your local election offices. Please contact your local election offices for the most accurate and up-to-date information._
+_Any errors or mistakes in the information compiled here are unintentional. Please use at your own risk. This is not meant to be a substitute for information from your state and local election offices. Please contact your state and local election offices for the most accurate and up-to-date information._
 
 ---
 
@@ -22,8 +22,9 @@ The following information is included for each state as available:
 Details for each state will be included here as they are compiled.
 
 
-| | | | |
-| --- | --- | --- | --- |
-| [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) | 
-| [California](california.md) | [Colorado](colorado.md) | [Connecticut](connecticut.md)| [Delaware](delaware.md)|
-| [Florida](florida.md) | [Georgia](georgia.md) | [Hawaii](hawaii.md) | [Idaho](idaho.md)|
+| | | | | |
+| --- | --- | --- | --- | --- |
+| [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) | [California](california.md) | 
+| [Colorado](colorado.md) | [Connecticut](connecticut.md)| [Delaware](delaware.md)|   [Florida](florida.md) | [Georgia](georgia.md) | 
+| [Hawaii](hawaii.md) | [Idaho](idaho.md)| [Illinois](illinois.md) | [Indiana](indiana.md) | [Iowa](iowa.md) | 
+| [Kansas](kansas.md) |
