@@ -1,5 +1,7 @@
 ## CONNECTICUT
 
+*Last updated: Aug 17, 2020*
+
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)

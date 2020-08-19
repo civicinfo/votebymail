@@ -1,5 +1,7 @@
 ## CALIFORNIA
 
+*Last updated: Aug 17, 2020*
+
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)

@@ -1,5 +1,7 @@
 ## HAWAII
 
+*Last updated: Aug 18, 2020*
+
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)

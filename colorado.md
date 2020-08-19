@@ -1,5 +1,7 @@
 ## COLORADO
 
+*Last updated: Aug 17, 2020*
+
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
