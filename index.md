@@ -27,4 +27,5 @@ Details for each state will be included here as they are compiled.
 | [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) | [California](california.md) | 
 | [Colorado](colorado.md) | [Connecticut](connecticut.md)| [Delaware](delaware.md)|   [Florida](florida.md) | [Georgia](georgia.md) | 
 | [Hawaii](hawaii.md) | [Idaho](idaho.md)| [Illinois](illinois.md) | [Indiana](indiana.md) | [Iowa](iowa.md) | 
-| [Kansas](kansas.md) | [Kentucky](kentucky.md) | [Louisiana](louisiana.md) | [Maine](maine.md) | | 
+| [Kansas](kansas.md) | [Kentucky](kentucky.md) | [Louisiana](louisiana.md) | [Maine](maine.md) | [Maryland](maryland.md) | 
+| [Massachusetts](massachusetts.md) | [Michigan](michigan.md) | [Minnesota](minnesota.md) |  | |
