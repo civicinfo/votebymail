@@ -11,24 +11,30 @@
 * [Ballot drop box locations](#ballot-drop-box-locations)
 * [More information](#more-information)
 
+
 #### Absentee/Mail-in eligibility 
-Covid-19 is a valid reason for absentee ballot request.
+COVID-19 is a valid reason for absentee ballot request.
+
 
 #### How to apply for absentee/mail-in ballot 
 Write to or visit the Absentee Election Manager
 
 [Absentee application forms and Absentee Election Manager contact](https://www.sos.alabama.gov/alabama-votes/absentee-ballot-applications)
 
+
 #### Absentee/mail-in application receipt deadline 
 Oct 29, 2020 
 
+
 #### Absentee/mail-in ballot requirements 
 Ballot has an affidavit that must be signed in the presence of a public notary OR witnessed by 2 witnesses 18yrs or older
+
 
 #### How to return absentee/mail-in ballot 
 * US mail 
 * Commercial carrier
 * Deliver in-person to Absentee Election Manager
+
 
 #### Ballot return deadline 
 * Mail:
@@ -37,8 +43,10 @@ Ballot has an affidavit that must be signed in the presence of a public notary O
 * In-person delivery
   * Before 5pm Nov 2, 2020 
 
+
 #### Ballot drop box locations 
 Info not available
+
 
 #### More information 
 * [Absentee voting in Alabama](https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting)

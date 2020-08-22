@@ -24,6 +24,7 @@ Any voter may request a mail-in ballot.
 #### Absentee/mail-in application receipt deadline
 Oct 28, 2020
 
+
 #### Absentee/mail-in ballot requirements
 First time voters may be required to send a copy of their ID with the ballot.
 
@@ -33,6 +34,7 @@ First time voters may be required to send a copy of their ID with the ballot.
 * Ballot drop box
 * In-person at local election office or early voting site.
 
+
 #### Ballot return deadline
 * Mail: Ballot should be postmarked on or before Nov 3, 2020. Ballot should reach the local
 election office by Nov 6, 2020.
@@ -41,6 +43,7 @@ election office by Nov 6, 2020.
 
 #### Ballot drop box locations
 Information not available yet
+
 
 #### More information
 * [Voting by mail in Massachusetts](https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm)

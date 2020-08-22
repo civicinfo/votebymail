@@ -10,8 +10,10 @@
 * [Ballot drop box locations](#ballot-drop-box-locations)
 * [More information](#more-information)
 
+
 #### Absentee/Mail-in eligibility
 Any voter may request an absentee ballot.
+
 
 #### How to apply for absentee/mail-in ballot
 * PEVL (Permanent Early Voter List):
@@ -25,18 +27,23 @@ Any voter may request an absentee ballot.
   * Mail [a paper form](https://azsos.gov/sites/default/files/20-AZS0S-0958_PEVL_Registration_Form_r09.pdf) to county recorder's office
   * Email county recorder
 
+
 #### Absentee/mail-in application receipt deadline
 Oct 23, 2020
+
 
 #### How to return absentee/mail-in ballot
 * Mail
 * Dropoff ballot at any ballot drop box, early voting location or Election Day voting location.
 
+
 #### Ballot return deadline
 Ballot must be received by 7pm on Nov 3, 2020.
 
+
 #### Ballot drop box locations
 Not yet known.
+
 
 #### More information
 * [Arizona Vote by Mail information](https://azsos.gov/votebymail)

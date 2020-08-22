@@ -14,6 +14,7 @@
 #### Absentee/Mail-in eligibility
 All voters may request a mail ballot by mail or in-person.
 
+
 #### How to apply for absentee/mail-in ballot
 * Mail or in-person at the [Election Authority offices](https://www.elections.il.gov/ElectionOperations/ElectionAuthorities.aspx?MID=cQHxtxVEmuo%3d&T=637333062807394588)
 * Some cities and counties such as Chicago city and Cook county have an online application process.

@@ -33,8 +33,10 @@ Oct 24, 2020
 #### Ballot return deadline
 Ballots should be received before 7pm on Nov 3, 2020
 
+
 #### Ballot drop box locations
 Check [County Elections Supervisor website](https://dos.elections.myflorida.com/supervisors/) for dropbox information for each county.
+
 
 #### More information
 * [Voting by mail in Florida](https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/)

@@ -26,19 +26,22 @@ Oct 30, 2020
 
 
 #### Absentee/mail-in ballot requirements
-Ballot affidavit should be signed in the presence of a witness.
+* Ballot affidavit should be signed in the presence of a witness.
+* [Video instructions](https://www.youtube.com/watch?v=JzD8oKQUHas&t=52s) on how to complete your ballot.
 
-[Video instructions](https://www.youtube.com/watch?v=JzD8oKQUHas&t=52s) on how to complete your ballot.
 
 #### How to return absentee/mail-in ballot
 * Mail
 * Fax (upon request to the Registrar of voters)
 * In-person delivery
 
+
 #### Ballot return deadline
 Ballot should be received at the parish registrar of voters by 4.30pm Nov 2, 2020.
 
+
 #### Ballot drop box locations
+Information not available yet.
 
 
 #### More information

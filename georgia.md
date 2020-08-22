@@ -16,20 +16,21 @@ Any voter is eligible to request an absentee ballot without a reason.
 
 
 #### How to apply for absentee/mail-in ballot
-Fill out [an application form](http://sos.ga.gov/admin/files/Absentee%20Ballot%20Fillable%20form%20720.pdf) and mail, fax, email or deliver in person to County Board of Registrar's office.
-
-[County Board of Registrars offices](https://elections.sos.ga.gov/Elections/countyregistrars.do)
+Fill out [an application form](http://sos.ga.gov/admin/files/Absentee%20Ballot%20Fillable%20form%20720.pdf) and mail, fax, email or deliver in person to [the County Board of Registrar's office](https://elections.sos.ga.gov/Elections/countyregistrars.do).
 
 
 #### Absentee/mail-in application receipt deadline
 Oct 30, 2020
 
+
 #### How to return absentee/mail-in ballot
 * Mail (postage required)
 * In-person delivery
 
+
 #### Ballot return deadline
 Ballots should be received before polls close on Nov 3, 2020.
+
 
 #### Ballot drop box locations
 Info not available yet.

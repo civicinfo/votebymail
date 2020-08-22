@@ -28,6 +28,7 @@ Oct 23, 2020
 * Mail
 * In-person or at a drop box at [County Clerk's office](https://idahovotes.gov/county-clerks/)
 
+
 #### Ballot return deadline
 Ballots should be returned before 8pm on Nov 3, 2020.
 

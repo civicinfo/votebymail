@@ -14,8 +14,10 @@
 #### Absentee/Mail-in eligibility
 Any voter may request an absentee ballot.
 
+
 #### How to apply for absentee/mail-in ballot
 * Fill out [the application form](https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf) and return to the [County Auditor's office](https://sos.iowa.gov/elections/auditors/auditorslist.html)
+
 
 #### Absentee/mail-in application receipt deadline
 * Oct 24, 2020
@@ -25,8 +27,10 @@ Any voter may request an absentee ballot.
 * Mail
 * In-person delivery
 
+
 #### Ballot return deadline
 Ballots should be returned by 9pm on Nov 3, 2020.
+
 
 #### Ballot drop box locations
 No info available

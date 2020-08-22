@@ -24,20 +24,25 @@ Any voter (including unregistered) may request a mail ballot.
 #### Absentee/mail-in application receipt deadline
 Anytime before Nov 2, 2020, but please note ballot return deadlines.
 
+
 #### Absentee/mail-in ballot requirements
 The ballot normally requires a witness. However, due to COVID-19, this requirement is waived for registered voters. Non-registered voters still a witness for proof of residence. The witness can be a registered MN voter or Notary.
+
 
 #### How to return absentee/mail-in ballot
 * Mail (USPS or other package delivery service)
 * In person
 The ballot cannot be dropped off at the polling place on Nov 3, 2020.
 
+
 #### Ballot return deadline
 * Mail: Ballot should be postmarked on or before Nov 3, 2020. Ballot should be received by the county by Nov 10, 2020.
 * Ballot may be dropped off at the local election office by 3pm on Nov 3, 2020.
 
+
 #### Ballot drop box locations
 Information is not yet available
+
 
 #### More information
 * [Voting by mail in Minnesota](https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/)

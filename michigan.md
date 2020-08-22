@@ -28,12 +28,16 @@ Oct 29, 2020
 * Mail
 * Ballot drop box
 
+
 #### Ballot return deadline
 * Ballot must be received by town clerk by 8pm at Nov 3, 2020.
 
+
 #### Ballot drop box locations
 * [Drop box locations](https://www.michigan.gov/documents/sos/Ballot_Dropbox_Locations_697191_7.pdf)
-(To be verified before the general election)
+
+**NOTE:** These were for the primary election and need to be verified before the general election.
+
 
 #### More information
 * [Vote by mail in Michigan](https://mvic.sos.state.mi.us/Home/VoteAtHome)

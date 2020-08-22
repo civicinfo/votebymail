@@ -5,7 +5,6 @@
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
-* [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
@@ -22,18 +21,20 @@ Fill out [the application form](https://sos.nebraska.gov/sites/sos.nebraska.gov/
 #### Absentee/mail-in application receipt deadline
 Oct 23, 2020
 
-#### Absentee/mail-in ballot requirements
 
 #### How to return absentee/mail-in ballot
 * Mail (including courier services)
 * In-person at county elections office
 * Drop box
 
+
 #### Ballot return deadline
 Ballot should be received by 8pm CST/7pm MST.
 
+
 #### Ballot drop box locations
 Some counties have drop boxes. Information will be updated as available.
+
 
 #### More information
 [Early voting in Nebraska](https://sos.nebraska.gov/elections/early-voting-0)

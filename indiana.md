@@ -28,11 +28,14 @@ Oct 22, 2020
 * Mail 
 * In-person at the County election board office
 
+
 #### Ballot return deadline
 Ballot should be returned before noon on Nov 3, 2020.
 
+
 #### Ballot drop box locations
-No info available
+Info not available yet.
+
 
 #### More information
 * [Indiana voter portal](https://indianavoters.in.gov/)

@@ -28,11 +28,14 @@ Oct 29, 2020
 * Mail
 * In-person delivery
 
+
 #### Ballot return deadline
 Ballot should be returned by 8pm on Nov 3, 2020.
 
+
 #### Ballot drop box locations
 Information not yet available.
+
 
 #### More information
 * [Voting by mail in Maine](https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html)

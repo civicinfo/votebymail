@@ -14,9 +14,11 @@
 #### Absentee/Mail-in eligibility
 In Delaware, there is a distinction between vote by mail and absentee voting. No reason required to vote by mail. Absentee voting requires a reason.
 
+
 #### How to apply for absentee/mail-in ballot
 * [Apply Online](https://ivote.de.gov/VoterView)
 * [Print an application](https://elections.delaware.gov/pubs/pdfs/VoteByMail_ApplicationForm.pdf) and mail, fax or email to [County elections office](https://elections.delaware.gov/locations.shtml).
+
 
 #### Absentee/mail-in application receipt deadline
 Oct 30, 2020 but Oct 27, 2020 is recommended

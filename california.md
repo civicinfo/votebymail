@@ -12,6 +12,7 @@
 #### Absentee/Mail-in eligibility
 A mail ballot will be sent to all voters for the 2020 election.
 
+
 #### How to return absentee/mail-in ballot
 * Mail to [county election office](https://www.sos.ca.gov/elections/voting-resources/county-elections-offices/)
 * Deliver to county election office
@@ -26,8 +27,10 @@ paid and the authorization section is filled on the ballot.
 * Deliver to polling place: between 7am and 8pm on Nov 3, 2020
 * Deliver to county elections office or drop in a ballot drop box: Before 8pm on Nov 3, 2020
 
+
 #### Ballot drop box locations
 [Find a vote center or ballot drop box](https://www.sos.ca.gov/elections/voters-choice-act/vca-voting-locations/)
+
 
 #### More information
 * [California Vote by Mail information](https://www.sos.ca.gov/elections/voter-registration/vote-mail/vbm-nov2020-general-election/#vote-by-mail)

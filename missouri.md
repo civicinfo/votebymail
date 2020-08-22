@@ -16,33 +16,39 @@
 * No reason is required to vote with a mail-in ballot. 
 * Voters in at-risk categories for COVID-19 should request an absentee ballot (which requires a reason).
 
+
 #### How to apply for absentee/mail-in ballot
 Fill out [the application form](https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/2020FillableBallotApplication-GeneralElection.pdf) for an absentee or a mail-in ballot (single application for 2020).
 
-Absentee: mail, email, fax or in-person
+* Absentee: mail, email, fax or in-person
 
-Mail-in: Mail or In person 
+* Mail-in: Mail or In person 
 
 [Local Election Authority](https://www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority)
+
 
 #### Absentee/mail-in application receipt deadline
 Oct 21, 2020
 
+
 #### Absentee/mail-in ballot requirements
-* Mail-in ballot envelope must be notarized
+* Mail-in ballot envelope must be notarized.
 * Voters in at-risk categories for COVID should request an absentee ballot. These are not required to have the notarization.
+
 
 #### How to return absentee/mail-in ballot
 * Absentee ballot: Mail or in-person
 * Mail-in ballot: Mail only
 
+
 #### Ballot return deadline
 Ballot must be received by 7pm on Nov 3, 2020.
 
+
 #### Ballot drop box locations
+Information is not available yet
 
 
 #### More information
-[Mail-in ballots in Missouri](https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf)
-
-[Local election authority](https://www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority)
+* [Mail-in ballots in Missouri](https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf)
+* [Local election authority](https://www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority)

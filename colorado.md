@@ -13,15 +13,19 @@
 #### Absentee/Mail-in eligibility
 Colorado votes by mail. All voters will be sent a mail ballot.
 
+
 #### How to return absentee/mail-in ballot
 * Mail 
 * Drop at ballot drop boxes
 
+
 #### Ballot return deadline
 Ballot should be received by the county clerk by 7pm on Nov 3, 2020.
 
+
 #### Ballot drop box locations
 Info not yet available
+
 
 #### More information
 * [Colorado voter information](https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html?menuheaders=5)
