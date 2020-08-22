@@ -9,7 +9,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -48,6 +48,6 @@ Voter must provide relevant proof of voter registration with ballot.
 Info not available yet
 
 
-#### More information
+#### Links to official sources
 * [Absentee voting in Arkansas](https://www.sos.arkansas.gov/elections/voter-information/absentee-voting)
 * [Arkansas Voting 101](https://www.sos.arkansas.gov/uploads/elections/voting_101_9-2018_grayscaleb.pdf)

@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -42,7 +42,7 @@ If requesting in person, the deadline is 3pm Nov 2, 2020.
 **NOTE:** these were for the primary election, need to verify them for general election
 
 
-#### More information
+#### Links to official sources
 * [Vote by mail in New Jersey](https://nj.gov/state/elections/vote-by-mail.shtml)
 * [County election offices](https://nj.gov/state/elections/county-eo.shtml)
 * [How to vote by mail](https://youtu.be/F7iHSpfgLjg) (Official video for Primary election)

@@ -7,7 +7,7 @@
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -22,7 +22,7 @@ Contact [the municipal clerk's office](https://www.sos.ms.gov/Elections-Voting/P
 No specific deadline is mentioned. Please contact the municipal clerk for information.
 
 
-#### More information
+#### Links to official sources
 * [Mississippi elections website](https://www.sos.ms.gov/elections-voting/Pages/default.aspx)
 * [Voter information guide](https://www.sos.ms.gov/Content/documents/Elections/VoterInformationGuide.pdf)
 * [County elections offices](https://www.sos.ms.gov/Elections-Voting/Pages/County-Election-Info.aspx)

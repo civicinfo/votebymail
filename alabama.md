@@ -9,7 +9,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility 
@@ -48,7 +48,7 @@ Ballot has an affidavit that must be signed in the presence of a public notary O
 Info not available
 
 
-#### More information 
+#### Links to official sources 
 * [Absentee voting in Alabama](https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting)
 * [COVID-19 voting resources](https://www.sos.alabama.gov/covid-19-voting-resources)
 * [Absentee Election Manager Contact Info](https://www.sos.alabama.gov/city-county-lookup/absentee-election-manager)

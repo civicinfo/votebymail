@@ -9,7 +9,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -45,7 +45,7 @@ election office by Nov 6, 2020.
 Information not available yet
 
 
-#### More information
+#### Links to official sources
 * [Voting by mail in Massachusetts](https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm)
 * [Vote by mail FAQs](https://www.sec.state.ma.us/ele/eleev/early-voting-faq.htm)
 * [Local elections offices](https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm)

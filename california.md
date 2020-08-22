@@ -6,7 +6,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -32,7 +32,7 @@ paid and the authorization section is filled on the ballot.
 [Find a vote center or ballot drop box](https://www.sos.ca.gov/elections/voters-choice-act/vca-voting-locations/)
 
 
-#### More information
+#### Links to official sources
 * [California Vote by Mail information](https://www.sos.ca.gov/elections/voter-registration/vote-mail/vbm-nov2020-general-election/#vote-by-mail)
 * [County elections offices](https://www.sos.ca.gov/elections/voting-resources/county-elections-offices/)
 * [Polling place lookup](https://www.sos.ca.gov/elections/polling-place/)

@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -37,7 +37,7 @@ Ballots should be returned before 8pm on Nov 3, 2020.
 Ballot drop boxes are available at the [County Clerk's office](https://idahovotes.gov/county-clerks/). No information is available about the location of other drop boxes.
 
 
-#### More information
+#### Links to official sources
 * [Absentee voting in Idahp](https://idahovotes.gov/absentee-voter-information/)
 * [Online Voter Tools](https://idahovotes.gov/online-voter-tools/)
 * [County Clerk's offices](https://idahovotes.gov/county-clerks/)

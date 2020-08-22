@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -36,7 +36,7 @@ Ballots should be returned by 9pm on Nov 3, 2020.
 No info available
 
 
-#### More information
+#### Links to official sources
 * [Absentee voting in Iowa](https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html)
 * [Absentee voting by mail in Iowa](https://sos.iowa.gov/elections/electioninfo/absenteemail.html)
 * [County Auditor offices](https://sos.iowa.gov/elections/auditors/auditorslist.html)

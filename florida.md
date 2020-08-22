@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -38,7 +38,7 @@ Ballots should be received before 7pm on Nov 3, 2020
 Check [County Elections Supervisor website](https://dos.elections.myflorida.com/supervisors/) for dropbox information for each county.
 
 
-#### More information
+#### Links to official sources
 * [Voting by mail in Florida](https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/)
 * [Supervisor of Elections by county](https://dos.elections.myflorida.com/supervisors/)
 * [Early voting sites](https://dos.myflorida.com/elections/for-voters/voting/early-voting/) (NOTE: currently only has info for the PRIMARY)

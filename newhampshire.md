@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -35,7 +35,7 @@ Ballot should be received by 5pm on Nov 3, 2020.
 #### Ballot drop box locations
 Information not available yet.
 
-#### More information
+#### Links to official sources
 * [Voting in New Hampshire during COVID](https://sos.nh.gov/elections/voters/voting-during-covid-19-state-of-emergency/)
 * [City/Town clerk offices](https://app.sos.nh.gov/Public/ClerkDetails.aspx)
 * [Ballot requirements and instructions](https://sos.nh.gov/media/eiwnnszz/covid-19-absentee-ballot-instructions.pdf)

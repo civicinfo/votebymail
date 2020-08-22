@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -37,7 +37,7 @@ Ballot should be returned by 8pm on Nov 3, 2020.
 Information not yet available.
 
 
-#### More information
+#### Links to official sources
 * [Voting by mail in Maine](https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html)
 * [Municipal clerk's offices](https://www.maine.gov/sos/cec/elec/munic.html)
 

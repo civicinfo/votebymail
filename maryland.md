@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -40,7 +40,7 @@ Oct 20, 2020
 * Information not available yet
 
 
-#### More information
+#### Links to official sources
 * [Voting by mail in Maryland](https://elections.maryland.gov/voting/absentee.html)
 * [Local board of elections](https://elections.maryland.gov/about/county_boards.html)
 

@@ -9,7 +9,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -44,7 +44,7 @@ Ballot should be received at the parish registrar of voters by 4.30pm Nov 2, 202
 Information not available yet.
 
 
-#### More information
+#### Links to official sources
 * [Louisiana voter portal](https://voterportal.sos.la.gov/)
 * [Vote by mail in Louisiana](https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx)
 * [Registrar of voters](https://voterportal.sos.la.gov/registrar)

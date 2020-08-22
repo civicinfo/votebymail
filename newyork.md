@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -45,7 +45,7 @@ Ballots may be received by mail or picked up in person.
 #### Ballot drop box locations
 Information not available yet
 
-#### More information
+#### Links to official sources
 * [Absentee voting in New York](https://www.elections.ny.gov/VotingAbsentee.html)
 * [County Board of Elections](https://www.elections.ny.gov/NYSBOE/Counties/CountyBoardRoster06172020.pdf)
 * [Early voting in New York](https://www.ny.gov/early-voting-new-york#) - find a voting site and hours

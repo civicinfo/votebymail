@@ -7,7 +7,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -32,7 +32,7 @@ Ballots should be received by 7pm on Nov 3, 2020.
 [Map of voter service centers and drop box locations](https://histategis.maps.arcgis.com/apps/MapSeries/index.html?appid=40a88743b85b4fbfb8cf6128bacfedcf)
 
 
-#### More information
+#### Links to official sources
 * [Vote by mail in Hawaii](https://elections.hawaii.gov/hawaii-votes-by-mail/)
 * [Clerk's office](https://elections.hawaii.gov/resources/county-election-divisions/)
 

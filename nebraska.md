@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -36,5 +36,5 @@ Ballot should be received by 8pm CST/7pm MST.
 Some counties have drop boxes. Information will be updated as available.
 
 
-#### More information
+#### Links to official sources
 [Early voting in Nebraska](https://sos.nebraska.gov/elections/early-voting-0)

@@ -9,7 +9,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -44,6 +44,6 @@ The ballot cannot be dropped off at the polling place on Nov 3, 2020.
 Information is not yet available
 
 
-#### More information
+#### Links to official sources
 * [Voting by mail in Minnesota](https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/)
 * [County election offices](https://www.sos.state.mn.us/elections-voting/find-county-election-office/)

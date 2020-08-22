@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -39,5 +39,5 @@ Oct 29, 2020
 **NOTE:** These were for the primary election and need to be verified before the general election.
 
 
-#### More information
+#### Links to official sources
 * [Vote by mail in Michigan](https://mvic.sos.state.mi.us/Home/VoteAtHome)

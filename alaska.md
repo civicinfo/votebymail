@@ -9,7 +9,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 #### Absentee/Mail-in eligibility 
 Any voter is eligible to request an absentee ballot. 
@@ -65,6 +65,6 @@ Ballot must be signed in the presence of 1 witness 18yrs or older or by a notary
 * Wasilla, AK- 1700 E Bogard Road
 
 
-#### More information
+#### Links to official sources
 * [Alaska Voter Information](https://elections.alaska.gov/Core/AKvoterinformation.php)
 * [Division of Elections offices](https://www.elections.alaska.gov/Core/contactusandsitemap.php)

@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -37,7 +37,7 @@ Ballots should be returned before 7pm on Nov 3, 2020.
 Drop boxes are available at Early Voting sites in Chicago. Please check locations for your specific city or county.
 
 
-#### More information
+#### Links to official sources
 * [Vote by mail in Illinois](https://www.elections.il.gov/DocDisplay.aspx?Doc=Downloads/ElectionOperations/PDF/VoteByMail.pdf)
 * [Vote by mail in Chicago](https://chicagoelections.gov/en/vote-by-mail.html)
 * [Cook County online mail ballot application](https://mailvoting.cookcountyclerkil.gov/)

@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -34,9 +34,9 @@ business on Nov 6, 2020.
 
 
 #### Ballot drop box locations
-Some cities and counties may have ballot drop box. Please contact them for more information.
+Some cities and counties may have ballot drop box. Please contact them for Links to official sources.
 
 
-#### More information
+#### Links to official sources
 * [Voter information for Kansas](https://sos.ks.gov/elections/voter-information.html)
 * [County election offices](https://www.sos.ks.gov/elections/county_election_officers.aspx)

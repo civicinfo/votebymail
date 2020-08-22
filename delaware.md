@@ -8,7 +8,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -36,6 +36,6 @@ Ballots should be received before 8pm on Nov 3, 2020.
 #### Ballot drop box locations
 Ballot drop boxes will be located at each county elections office.
 
-#### More information
+#### Links to official sources
 * [Voting by mail in Delaware](https://elections.delaware.gov/services/voter/votebymail/index.shtml)
 * [County Elections offices](https://elections.delaware.gov/locations.shtml)

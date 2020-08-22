@@ -7,7 +7,7 @@
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
-* [More information](#more-information)
+* [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
@@ -27,7 +27,7 @@ Ballot should be received by the county clerk by 7pm on Nov 3, 2020.
 Info not yet available
 
 
-#### More information
+#### Links to official sources
 * [Colorado voter information](https://www.sos.state.co.us/pubs/elections/vote/VoterHome.html?menuheaders=5)
 * [Mail-in ballots FAQ](https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html)
 * [County clerks](https://www.sos.state.co.us/pubs/elections/Resources/CountyElectionOffices.html)
