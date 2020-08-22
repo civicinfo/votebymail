@@ -30,3 +30,4 @@ Details for each state will be included here as they are compiled.
 | [Kansas](kansas.md) | [Kentucky](kentucky.md) | [Louisiana](louisiana.md) | [Maine](maine.md) | [Maryland](maryland.md) | 
 | [Massachusetts](massachusetts.md) | [Michigan](michigan.md) | [Minnesota](minnesota.md) | [Mississippi](mississipi.md) | [Missouri](missouri.md) | 
 | [Montana](montana.md) | [Nebraska](nebraska.md) | [Nevada](nevada.md) | [New Hampshire](newhampshire.md) | [New Jersey](newjersey.md) |
+| [New Mexico](newmexico.md) | [New York](newyork.md) | | | |
