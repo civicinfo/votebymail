@@ -5,7 +5,6 @@
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
-* [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
@@ -27,10 +26,6 @@ Applications may not be emailed or faxed by non-military voters.
 Nov 2, 2020
 
 
-#### Absentee/mail-in ballot requirements
-
-
-
 #### How to return absentee/mail-in ballot
 * Mail
 * In-person at the County Auditor's office
@@ -41,7 +36,7 @@ Ballots should be received by the County Auditor's office before 7pm on Nov 3, 2
 
 
 #### Ballot drop box locations
-
+Information is not available yet.
 
 
 #### Links to official sources
