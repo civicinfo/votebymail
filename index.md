@@ -32,4 +32,4 @@ Details for each state and Washington, DC will be included here as they are comp
 | [Nevada](nevada.md) | [New Hampshire](newhampshire.md) | [New Jersey](newjersey.md) | [New Mexico](newmexico.md) | 
 | [New York](newyork.md) | [North Carolina](northcarolina.md) | [North Dakota](northdakota.md) | [Ohio](ohio.md) | 
 | [Oklahoma](oklahoma.md) | [Pennsylvania](pennsylvania.md) | [Rhode Island](rhodeisland.md) | [South Carolina](southcarolina.md) |
-| [South Dakota](southdakota.md) | | | |
+| [South Dakota](southdakota.md) | [Tennessee](tennessee.md) | [Texas](texas.md) | [Utah](utah.md) |
