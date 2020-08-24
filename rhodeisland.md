@@ -1,11 +1,10 @@
-## KENTUCKY
+## RHODE ISLAND
 
 *Last Updated: Aug 23, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
-* [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
 * [Ballot drop box locations](#ballot-drop-box-locations)
@@ -13,30 +12,32 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request an absentee ballot during the 2020 general election. COVID-19 may be used as a reason on the application.
+Any voter who cannot or prefers not to vote in-person may request a mail-in ballot.
 
 
 #### How to apply for absentee/mail-in ballot
-* [Apply online](https://vrsws.sos.ky.gov/abrweb/)
-* Request an application form from [the county clerk's office](https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx)
+Fill out [the application form](https://elections.ri.gov/publications/Election_Publications/Election_Info/General%20Mail%20Ballot%20Application%2011-3-2020.pdf) and return to [the local board of canvassers](https://vote.sos.ri.gov/Elections/LocalBoards).
 
 
 #### Absentee/mail-in application receipt deadline
-Oct 9, 2020
+4pm Oct 13, 2020
 
 
 #### How to return absentee/mail-in ballot
 * Mail
+* In-person to local board of canvassers' office
+* Ballot drop boxes
 
 
 #### Ballot return deadline
-Ballot should be postmarked on or before Nov 3, 2020.
+Ballots should be received by 8pm on Nov 3, 2020.
 
 
 #### Ballot drop box locations
-Information is not available yet.
+* [Find a Ballot drop box](https://ristate.maps.arcgis.com/apps/instant/nearby/index.html?appid=72c6ecd6bddd44cbbd3f007969fb1c35)
 
 
 #### Links to official sources
-* [Absentee voting in Kentucky](https://elect.ky.gov/Voters/Pages/Absentee-Voting.aspx)
-* [County clerk's offices](https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx)
+* [Vote by mail in Rhode Island](https://vote.sos.ri.gov/Voter/VotebyMail)
+* [Local Board of Canvassers](https://vote.sos.ri.gov/Elections/LocalBoards)
+

@@ -2,11 +2,9 @@
 
 This is a state-by-state breakdown of how to request and return an absentee/mail-in ballot for the 2020 US general election to be held on Nov 3, 2020.
 
----
-**_DISCLAIMER:_**
-_Any errors or mistakes in the information compiled here are unintentional. Please use at your own risk. This is not meant to be a substitute for information from your state and local election offices. Please contact your state and local election offices for the most accurate and up-to-date information._
 
----
+> **_DISCLAIMER:_**
+> _Every attempt is made to collect and share the most accurate information in these pages. Any errors are unintentional. Please use at your own risk. This is not meant to be a substitute for information from your state and local election offices. Please contact your state and local election offices for the most accurate and up-to-date information._
 
 
 The following information is included for each state as available:
@@ -19,17 +17,19 @@ The following information is included for each state as available:
 * Ballot drop box locations
 * Links to official sources
 
-Details for each state will be included here as they are compiled.
+Details for each state and Washington, DC will be included here as they are compiled.
 
 
 | | | | |
 | --- | --- | --- | --- |
 | [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) | 
 | [California](california.md) | [Colorado](colorado.md) | [Connecticut](connecticut.md)| [Delaware](delaware.md)| 
-| [Florida](florida.md) | [Georgia](georgia.md) | [Hawaii](hawaii.md) | [Idaho](idaho.md)| 
-| [Illinois](illinois.md) | [Indiana](indiana.md) | [Iowa](iowa.md) | [Kansas](kansas.md) | 
-| [Kentucky](kentucky.md) | [Louisiana](louisiana.md) | [Maine](maine.md) | [Maryland](maryland.md) | 
-| [Massachusetts](massachusetts.md) | [Michigan](michigan.md) | [Minnesota](minnesota.md) | [Mississippi](mississippi.md) | 
-| [Missouri](missouri.md) | [Montana](montana.md) | [Nebraska](nebraska.md) | [Nevada](nevada.md) | 
-| [New Hampshire](newhampshire.md) | [New Jersey](newjersey.md) | [New Mexico](newmexico.md) | [New York](newyork.md) | 
-| [North Carolina](northcarolina.md) | [North Dakota](northdakota.md) | [Ohio](ohio.md) | [Oklahoma](oklahoma.md) | 
+| [District of Columbia (DC)](dc.md) | [Florida](florida.md) | [Georgia](georgia.md) | [Hawaii](hawaii.md) | 
+| [Idaho](idaho.md) | [Illinois](illinois.md) | [Indiana](indiana.md) | [Iowa](iowa.md) |
+| [Kansas](kansas.md) | [Kentucky](kentucky.md) | [Louisiana](louisiana.md) | [Maine](maine.md) | 
+| [Maryland](maryland.md) | [Massachusetts](massachusetts.md) | [Michigan](michigan.md) | [Minnesota](minnesota.md) | 
+| [Mississippi](mississippi.md) | [Missouri](missouri.md) | [Montana](montana.md) | [Nebraska](nebraska.md) | 
+| [Nevada](nevada.md) | [New Hampshire](newhampshire.md) | [New Jersey](newjersey.md) | [New Mexico](newmexico.md) | 
+| [New York](newyork.md) | [North Carolina](northcarolina.md) | [North Dakota](northdakota.md) | [Ohio](ohio.md) | 
+| [Oklahoma](oklahoma.md) | [Pennsylvania](pennsylvania.md) | [Rhode Island](rhodeisland.md) | [South Carolina](southcarolina.md) |
+| [South Dakota](southdakota.md) | | | |

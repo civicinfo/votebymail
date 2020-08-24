@@ -1,4 +1,4 @@
-## KENTUCKY
+## SOUTH DAKOTA
 
 *Last Updated: Aug 23, 2020*
 
@@ -13,30 +13,37 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request an absentee ballot during the 2020 general election. COVID-19 may be used as a reason on the application.
+Any registered voter may request an absentee ballot without a reason.
+
+NOTE: All voters were mailed absentee ballot applications for the primary election. The official website does not indicate whether this will happen for the General Election.
 
 
 #### How to apply for absentee/mail-in ballot
-* [Apply online](https://vrsws.sos.ky.gov/abrweb/)
-* Request an application form from [the county clerk's office](https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx)
+Fill out [the application form](https://sdsos.gov/elections-voting/assets/AbsenteeBallotApplicationFillable.pdf) and mail it to [the County Auditor](https://vip.sdsos.gov/CountyAuditors.aspx).
+Applications may not be emailed or faxed by non-military voters.
 
 
 #### Absentee/mail-in application receipt deadline
-Oct 9, 2020
+Nov 2, 2020
+
+
+#### Absentee/mail-in ballot requirements
+
 
 
 #### How to return absentee/mail-in ballot
 * Mail
+* In-person at the County Auditor's office
 
 
 #### Ballot return deadline
-Ballot should be postmarked on or before Nov 3, 2020.
+Ballots should be received by the County Auditor's office before 7pm on Nov 3, 2020.
 
 
 #### Ballot drop box locations
-Information is not available yet.
+
 
 
 #### Links to official sources
-* [Absentee voting in Kentucky](https://elect.ky.gov/Voters/Pages/Absentee-Voting.aspx)
-* [County clerk's offices](https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx)
+* [Absentee voting in South Dakota](https://sdsos.gov/elections-voting/voting/absentee-voting.aspx)
+* [County Auditors' offices](https://vip.sdsos.gov/CountyAuditors.aspx)
