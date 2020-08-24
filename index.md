@@ -3,7 +3,7 @@
 This is a state-by-state breakdown of how to request and return an absentee/mail-in ballot for the 2020 US general election to be held on Nov 3, 2020. 
 
 
-I started this hobby project one weekend out of curiosity to understand how absentee/mail-in voting works in different states. I decided to make the results of my research available in case it is useful to others.
+This hobby project was born one weekend out of curiosity to understand how absentee/mail-in voting works in different states. I decided to make the results of my research available in case it is useful to others.
 
 
 The following information is included for each state as available:
