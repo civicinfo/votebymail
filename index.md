@@ -17,7 +17,7 @@ The following information is included for each state as available:
 * Links to official sources
 
 
-Details will be updated here as they become available.
+Details will be updated here as they become available. Please report any errors by [email](mailto:civicinfo@protonmail.com) or by filing a [Github issue](https://github.com/civicinfo/votebymail/issues).
 
 
 | | | | |
