@@ -1,6 +1,6 @@
 ## MINNESOTA
 
-*Last Updated: Aug 19, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -13,7 +13,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter (including unregistered) may request a mail ballot.
+Any voter (including unregistered voters) may request a mail ballot.
 
 
 #### How to apply for absentee/mail-in ballot

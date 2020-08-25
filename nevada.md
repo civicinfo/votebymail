@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request an absentee ballot.
+Any registered voter may request an absentee ballot.
 
 #### How to apply for absentee/mail-in ballot
 * Fill out [the application form](https://www.nvsos.gov/sos/home/showdocument?id=8262) and submit to [the County Clerk](https://www.nvsos.gov/sos/elections/voters/county-clerk-contact-information)

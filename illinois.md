@@ -1,6 +1,6 @@
 ## ILLINOIS
 
-*Last updated: Aug 18, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-All voters may request a mail ballot by mail or in-person.
+Any registered voter may request a mail ballot by mail or in-person.
 
 
 #### How to apply for absentee/mail-in ballot

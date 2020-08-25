@@ -1,6 +1,6 @@
 ## NEW MEXICO
 
-*Last Updated: Aug 22, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request an absentee ballot.
+Any registered voter may request an absentee ballot.
 
 
 #### How to apply for absentee/mail-in ballot

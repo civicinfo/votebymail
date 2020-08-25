@@ -1,6 +1,6 @@
 ## KANSAS
 
-*Last updated: Aug 18, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request a mail ballot.
+Any registered voter may request a mail ballot.
 
 
 #### How to apply for absentee/mail-in ballot

@@ -1,6 +1,6 @@
 ## NEW JERSEY
 
-*Last Updated: Aug 22, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,13 +12,13 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter can request an mail ballot. 
+Any registered voter is eligible to request an mail ballot. 
 
 **NOTE:** During the primary election, all registered voters were mailed a ballot. It's not confirmed if this will happen for the General election.
 
 
 #### How to apply for absentee/mail-in ballot
-Fill out the county-specific application form listed at [this website](https://nj.gov/state/elections/vote-by-mail.shtml) and return to the county clerk by mail or in-person. 
+Fill out the county-specific application form listed at [this website](https://nj.gov/state/elections/vote-by-mail.shtml) and return to the county clerk by mail or in-person. Email or fax are not acceptable since an original signature is required on the application.
 
 #### Absentee/mail-in application receipt deadline
 If requesting by mail, the deadline is Oct 27, 2020.

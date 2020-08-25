@@ -1,6 +1,6 @@
 ## RHODE ISLAND
 
-*Last Updated: Aug 23, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter who cannot or prefers not to vote in-person may request a mail-in ballot.
+Any registered voter who cannot or prefers not to vote in-person may request a mail-in ballot.
 
 
 #### How to apply for absentee/mail-in ballot
@@ -39,5 +39,6 @@ Ballots should be received by 8pm on Nov 3, 2020.
 
 #### Links to official sources
 * [Vote by mail in Rhode Island](https://vote.sos.ri.gov/Voter/VotebyMail)
+* [Vote from home brochure](https://vote.sos.ri.gov/Content/Pdfs/Calendar/Vote-From-Home-English.pdf)
 * [Local Board of Canvassers](https://vote.sos.ri.gov/Elections/LocalBoards)
 

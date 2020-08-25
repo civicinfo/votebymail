@@ -1,6 +1,6 @@
 ## ARKANSAS
 
-*Last updated: Aug 16, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -13,7 +13,7 @@
 
 
 #### Absentee/Mail-in eligibility
-COVID-19 is a valid reason for an absentee ballot request.
+Due to COVID-19, any registered voter may request an absentee ballot for the 2020 General Election. Voters may choose either "I will be unavoidably absent from your polling site on election day" OR "I will be unable to attend my polling site on election day due to illness or physical disability".
 
 
 #### How to apply for absentee/mail-in ballot
@@ -51,3 +51,4 @@ Info not available yet
 #### Links to official sources
 * [Absentee voting in Arkansas](https://www.sos.arkansas.gov/elections/voter-information/absentee-voting)
 * [Arkansas Voting 101](https://www.sos.arkansas.gov/uploads/elections/voting_101_9-2018_grayscaleb.pdf)
+* [How to complete an absentee ballot application](https://www.sos.arkansas.gov/uploads/elections/How_to_Complete_the_Absentee_Ballot_Application.pdf)

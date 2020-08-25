@@ -1,6 +1,6 @@
 ## LOUISIANA
 
-*Last Updated: Aug 19, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -13,7 +13,7 @@
 
 
 #### Absentee/Mail-in eligibility
-A reason is required to request an absentee ballot.
+A reason is required to request an absentee ballot. Please check [here](https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx) for eligibility.
 
 
 #### How to apply for absentee/mail-in ballot

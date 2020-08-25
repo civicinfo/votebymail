@@ -1,6 +1,6 @@
 ## NEBRASKA
 
-*Last Updated: Aug 21, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request an early voting/absentee ballot.
+Any registered voter may request an early voting/absentee ballot.
 
 
 #### How to apply for absentee/mail-in ballot
@@ -37,4 +37,5 @@ Some counties have drop boxes. Information will be updated as available.
 
 
 #### Links to official sources
-[Early voting in Nebraska](https://sos.nebraska.gov/elections/early-voting-0)
+* [Early voting in Nebraska](https://sos.nebraska.gov/elections/early-voting-0)
+* [County election offices](https://www.nvsos.gov/sos/elections/voters/county-clerk-contact-information)

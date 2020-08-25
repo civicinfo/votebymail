@@ -1,6 +1,6 @@
 ## COLORADO
 
-*Last updated: Aug 17, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
@@ -11,7 +11,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Colorado votes by mail. All voters will be sent a mail ballot.
+Colorado votes by mail. All registered voters will be sent a mail ballot.
 
 
 #### How to return absentee/mail-in ballot

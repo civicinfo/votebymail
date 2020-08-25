@@ -1,6 +1,6 @@
 ## FLORIDA
 
-*Last updated: Aug 17, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter can request a vote by mail ballot.
+Any registered voter is eligible to request a vote by mail ballot.
 
 
 #### How to apply for absentee/mail-in ballot

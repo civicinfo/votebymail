@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request an absentee ballot.
+Any voter may request an absentee ballot. The absentee ballot application form may simulataneously be used to register to vote.
 
 
 #### How to apply for absentee/mail-in ballot

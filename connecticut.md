@@ -1,6 +1,6 @@
 ## CONNECTICUT
 
-*Last updated: Aug 17, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,16 +12,16 @@
 
 
 #### Absentee/Mail-in eligibility
-All voters will be mailed an absentee ballot application due to Covid (NOTE: This was true for the PRIMARY, need to verify for the GENERAL election).
+Due to COVID-19, any registered voter may request an absentee ballot for the 2020 General Election. Voters may choose the option "COVID-19" as the reason for the request. 
+(NOTE: All voters were mailed an absentee ballot application during the PRIMARY, no confirmation yet whether this will happen for the GENERAL election).
 
 
 #### How to apply for absentee/mail-in ballot
-Return completed absentee ballot application to [Town Clerk's office](https://portal.ct.gov/-/media/SOTS/ElectionServices/lists/TownClerkListpdf.pdf)
-Postage is included for returning the applications.
+Download and fill out [the application form](https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting) and return to [the Town Clerk's office](https://portal.ct.gov/-/media/SOTS/ElectionServices/lists/TownClerkListpdf.pdf)
 
 
 #### Absentee/mail-in application receipt deadline
-To be confirmed
+No deadline is specified. Please allow sufficient time for your ballot to be returned.
 
 
 #### How to return absentee/mail-in ballot

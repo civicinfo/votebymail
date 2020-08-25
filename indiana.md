@@ -1,6 +1,6 @@
 ## INDIANA
 
-*Last updated: Aug 18, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Indiana requires voters to have a reason to request an absentee ballot.
+Indiana requires voters to have a reason to request an absentee ballot. Please check the eligibility requirements [here](https://www.in.gov/sos/elections/2402.htm).
 
 
 #### How to apply for absentee/mail-in ballot

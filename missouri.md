@@ -1,6 +1,6 @@
 ## MISSOURI
 
-*Last Updated: Aug 21, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -13,7 +13,7 @@
 
 
 #### Absentee/Mail-in eligibility
-* No reason is required to vote with a mail-in ballot. 
+* Any registered voter may request a mail-in ballot.
 * Voters in at-risk categories for COVID-19 should request an absentee ballot (which requires a reason).
 
 

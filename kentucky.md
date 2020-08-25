@@ -1,6 +1,6 @@
 ## KENTUCKY
 
-*Last Updated: Aug 23, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any voter may request an absentee ballot during the 2020 general election. COVID-19 may be used as a reason on the application.
+Any registered voter may request an absentee ballot during the 2020 general election. COVID-19 may be used as a reason on the application.
 
 
 #### How to apply for absentee/mail-in ballot
@@ -33,7 +33,7 @@ Ballot should be postmarked on or before Nov 3, 2020.
 
 
 #### Ballot drop box locations
-Information is not available yet.
+Counties will have ballot drop boxes, locations will be updated when available.
 
 
 #### Links to official sources

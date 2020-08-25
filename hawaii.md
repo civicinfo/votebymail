@@ -15,7 +15,7 @@ Hawaii votes by mail starting in 2020.
 
 
 #### How to apply for absentee/mail-in ballot
-All voters will be mailed a ballot.
+All registered voters will be mailed a ballot.
 
 
 #### How to return absentee/mail-in ballot

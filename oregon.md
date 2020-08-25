@@ -10,7 +10,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Oregon votes by mail. All voters will be mailed a ballot.
+Oregon votes by mail. All registered voters will be mailed a ballot.
 
 
 #### How to return absentee/mail-in ballot

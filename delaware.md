@@ -1,6 +1,6 @@
 ## DELAWARE
 
-*Last updated: Aug 17, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,12 +12,11 @@
 
 
 #### Absentee/Mail-in eligibility
-In Delaware, there is a distinction between vote by mail and absentee voting. No reason required to vote by mail. Absentee voting requires a reason.
-
+Any registered voter is eligible to vote by mail without a reason. Absentee voting, however, requires a reason. 
 
 #### How to apply for absentee/mail-in ballot
 * [Apply Online](https://ivote.de.gov/VoterView)
-* [Print an application](https://elections.delaware.gov/pubs/pdfs/VoteByMail_ApplicationForm.pdf) and mail, fax or email to [County elections office](https://elections.delaware.gov/locations.shtml).
+* [Print an application](https://elections.delaware.gov/pubs/pdfs/VoteByMail_ApplicationForm.pdf) and mail, fax or email to [the County elections office](https://elections.delaware.gov/locations.shtml).
 
 
 #### Absentee/mail-in application receipt deadline

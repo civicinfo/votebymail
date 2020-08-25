@@ -1,6 +1,6 @@
 ## NEW YORK
 
-*Last Updated: Aug 22, 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,7 +12,7 @@
 
 
 #### Absentee/Mail-in eligibility
-COVID-19 is a valid reason for absentee ballot request.
+Due to COVID-19, any registered voter is eligible to request an absentee ballot. Voters may choose "temporary illness or physical disability" as the reason on the application form.
 
 
 #### How to apply for absentee/mail-in ballot

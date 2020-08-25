@@ -1,6 +1,6 @@
 ## CALIFORNIA
 
-*Last updated: Aug 17, 2020*
+*Last updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
@@ -10,7 +10,7 @@
 
 
 #### Absentee/Mail-in eligibility
-A mail ballot will be sent to all voters for the 2020 election.
+A mail ballot will be sent to all registered voters for the 2020 election.
 
 
 #### How to return absentee/mail-in ballot
@@ -33,7 +33,7 @@ paid and the authorization section is filled on the ballot.
 
 
 #### Links to official sources
-* [California Vote by Mail information](https://www.sos.ca.gov/elections/voter-registration/vote-mail/vbm-nov2020-general-election/#vote-by-mail)
+* [California Vote by Mail information](https://www.sos.ca.gov/elections/voter-registration/vote-mail/)
 * [County elections offices](https://www.sos.ca.gov/elections/voting-resources/county-elections-offices/)
 * [Polling place lookup](https://www.sos.ca.gov/elections/polling-place/)
 

@@ -1,6 +1,6 @@
-## STATE
+## WASHINGTON
 
-*Last Updated: [Fill in date], 2020*
+*Last Updated: Aug 24, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
@@ -10,7 +10,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Washington votes by mail. All voters will be mailed a ballot.
+Washington votes by mail. All registered voters will be mailed a ballot.
 
 
 #### How to return absentee/mail-in ballot
