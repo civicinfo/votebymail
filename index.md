@@ -1,4 +1,7 @@
+<img src="icons/votebymail.png" alt="Vote by mail" style="height: 100px; width:100px;"/>
+
 ### Vote absentee or by mail in 2020
+
 
 This is a state-by-state breakdown of how to request and return an absentee/mail-in ballot for the 2020 US general election to be held on Nov 3, 2020. 
 
