@@ -6,7 +6,8 @@
 This is a state-by-state breakdown of how to request and return an absentee/mail-in ballot for the 2020 US general election to be held on Nov 3, 2020. 
 
 
-This hobby project was born one weekend out of curiosity to understand how absentee/mail-in voting works in different states. I decided to make the results of my research available in case it is useful to others.
+This project was born one weekend out of curiosity to understand how absentee/mail-in voting works in different states. I decided to make the results of my research available in case it is useful to others. Information will be updated here as it becomes available. Please report any errors by [email](mailto:civicinfo@protonmail.com) or by filing a [Github issue](https://github.com/civicinfo/votebymail/issues).
+
 
 
 The following information is included for each state as available:
@@ -18,9 +19,6 @@ The following information is included for each state as available:
 * Ballot return deadline
 * Ballot drop box locations
 * Links to official sources
-
-
-Details will be updated here as they become available. Please report any errors by [email](mailto:civicinfo@protonmail.com) or by filing a [Github issue](https://github.com/civicinfo/votebymail/issues).
 
 
 | | | | |
