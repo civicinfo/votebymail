@@ -1,6 +1,6 @@
 ## MASSACHUSETTS
 
-*Last Updated: Aug 24, 2020*
+*Last Updated: Sept 12, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -13,7 +13,7 @@
 
 
 #### Absentee/Mail-in eligibility
-Any registered voter may request a mail-in ballot.
+Any registered voter may request a mail-in ballot. Every registered voter will be mailed a Vote-by-Mail application form for 2020 elections. 
 
 
 #### How to apply for absentee/mail-in ballot
@@ -47,6 +47,7 @@ Information not available yet
 
 #### Links to official sources
 * [Voting by mail in Massachusetts](https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm)
+* [COVID-19 elections updates](https://www.sec.state.ma.us/ele/covid-19/covid-19.htm)
 * [Vote by mail FAQs](https://www.sec.state.ma.us/ele/eleev/early-voting-faq.htm)
 * [Local elections offices](https://www.sec.state.ma.us/ele/eleev/ev-find-my-election-office.htm)
 
