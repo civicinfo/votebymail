@@ -1,6 +1,6 @@
 ## NORTH CAROLINA
 
-*Last Updated: Aug 23, 2020*
+*Last Updated: Sept 13, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -17,7 +17,7 @@ Any registered voter may request an absentee ballot for the 2020 general electio
 
 
 #### How to apply for absentee/mail-in ballot
-Fill out [the application form](https://s3.amazonaws.com/dl.ncsbe.gov/Forms/NCAbsenteeBallotRequestForm.pdf) and return to [the county board of elections](https://vt.ncsbe.gov/BOEInfo/PrintableVersion/) by mail, email, fax or in-person
+Apply [online](https://votebymail.ncsbe.gov/app/home) or fill out [the application form](https://s3.amazonaws.com/dl.ncsbe.gov/Forms/NCAbsenteeBallotRequestForm.pdf) and return to [the county board of elections](https://vt.ncsbe.gov/BOEInfo/PrintableVersion/) by mail, email, fax or in-person
 
 
 #### Absentee/mail-in application receipt deadline
@@ -29,13 +29,15 @@ Ballot requires one witness for the 2020 election (under normal circumstances, t
 
 
 #### How to return absentee/mail-in ballot
-* Mail
-* In-person at County board of elections or at an early voting site
+* Mail (including commercial services like Fedex, UPS, etc.)
+* In-person at County board of elections.
+* In-person at an early voting site in the voter's county
 
 
 #### Ballot return deadline
 * Mail: Ballot should be postmarked on or before Nov 3, 2020. Ballot should be received by 5pm on Nov 6, 2020.
 * In-person at County Board of Elections: Ballot should be received by 5pm on Nov 3, 2020.
+* In-person at an early voting site: During the early voting period, usually Oct 15 - Oct 31, 2020.
 
 
 #### Ballot drop box locations

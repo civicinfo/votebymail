@@ -1,6 +1,6 @@
 ## VERMONT
 
-*Last Updated: Aug 24, 2020*
+*Last Updated: Sept 13, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -31,11 +31,12 @@ Nov 2, 2020
 
 
 #### Ballot return deadline
-Ballots should be received by 7pm on Nov 3, 2020.
+* In-person at clerk's office: Close of business on Nov 2, 2020.
+* Mail or in-person at polling place: Ballots should be received by 7pm on Nov 3, 2020.
 
 
 #### Ballot drop box locations
-Information not yet available.
+Please contact the clerk's office for information about drop boxes.
 
 
 #### Links to official sources
@@ -43,4 +44,4 @@ Information not yet available.
 * County clerk's offices
   * [Excel](https://sos.vermont.gov/media/fyvdm1j0/clerkcontactinfoexcel.xlsx)
   * [PDF](https://sos.vermont.gov/media/vh1jv3oj/2019townclerkguide.pdf)
-* [Polling Places (Excel)](https://sos.vermont.gov/media/kxqnjcql/2020-vt-primary-general-tm-polling-places.xlsx)
+* [Polling Places](https://sos.vermont.gov/elections/voters/polling-places/)

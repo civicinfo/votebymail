@@ -8,7 +8,6 @@
 * [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
-* [Ballot drop box locations](#ballot-drop-box-locations)
 * [Links to official sources](#links-to-official-sources)
 
 
@@ -33,10 +32,6 @@ Oct 28, 2020
 #### Ballot return deadline
 * Mail: Ballot must be postmarked on or before Nov 3, 2020.
 * In-person: Ballot should be received at the County clerk's office by Nov 2, 2020.
-
-
-#### Ballot drop box locations
-Information is not available yet.
 
 
 #### Links to official sources

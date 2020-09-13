@@ -7,7 +7,6 @@
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
-* [Ballot drop box locations](#ballot-drop-box-locations)
 * [Links to official sources](#links-to-official-sources)
 
 
@@ -35,10 +34,6 @@ Oct 23, 2020
 #### Ballot return deadline
 * In-person: Ballot should be received by 7pm on Nov 3, 2020.
 * Mail: Ballot should be postmarked on or before Nov 3, 2020 and received by 5pm Nov 4, 2020.
-
-
-#### Ballot drop box locations
-Information not available yet.
 
 
 #### Links to official sources

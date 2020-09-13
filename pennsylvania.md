@@ -7,7 +7,6 @@
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
-* [Ballot drop box locations](#ballot-drop-box-locations)
 * [Links to official sources](#links-to-official-sources)
 
 
@@ -27,15 +26,11 @@ Oct 27, 2020
 
 #### How to return absentee/mail-in ballot
 * Mail
-* In-person at te County elections office
+* In-person at [the County elections office](https://www.votespa.com/Resources/Pages/Contact-Your-Election-Officials.aspx)
 
 
 #### Ballot return deadline
 Ballots should be received by 8pm on Nov 3, 2020.
-
-
-#### Ballot drop box locations
-Information not available yet.
 
 
 #### Links to official sources

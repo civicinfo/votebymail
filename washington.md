@@ -1,6 +1,6 @@
 ## WASHINGTON
 
-*Last Updated: Aug 24, 2020*
+*Last Updated: Sept 13, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
@@ -24,8 +24,9 @@ Washington votes by mail. All registered voters will be mailed a ballot.
 
 
 #### Ballot drop box locations
-[Ballot drop box locations](https://www.sos.wa.gov/_assets/elections/ballot%20drop%20boxes%202019%20general%20election.pdf) (2019; to be confirmed for 2020)
+Log on to the [voter portal](https://voter.votewa.gov/) and click "Voting Centers" to get the closest ballot drop box.
 
+[Ballot drop box locations (2019)](https://www.sos.wa.gov/_assets/elections/ballot%20drop%20boxes%202019%20general%20election.pdf) (2019; to be confirmed for 2020)
 
 
 #### Links to official sources

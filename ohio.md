@@ -1,6 +1,6 @@
 ## OHIO
 
-*Last Updated: Aug 24, 2020*
+*Last Updated: Sept 13, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -18,8 +18,6 @@ Any registered voter may request an absentee ballot.
 #### How to apply for absentee/mail-in ballot
 * Fill out [the online form](https://www.ohiosos.gov/elections/voters/absentee-ballot/). This generates an application that can be downloaded and printed. Optionally, [download and complete Form 11-A](https://www.ohiosos.gov/globalassets/elections/forms/11-a_english.pdf). 
 * The application should be mailed or delivered in person to [the county board of elections offices](https://www.ohiosos.gov/elections/elections-officials/county-boards-of-elections-directory/).
-
-**NOTE:** news sources indicate that applications may be mailed to all voters. Official sources are not reflecting this yet.
 
 
 #### Absentee/mail-in application receipt deadline
@@ -41,6 +39,7 @@ Information not available yet.
 
 
 #### Links to official sources
+* [Voter information portal](https://www.ohiosos.gov/elections/voters/)
 * [Absentee voting by mail in Ohio](https://www.ohiosos.gov/elections/voters/absentee-voting/#byMail)
 * [County Election board offices](https://www.ohiosos.gov/elections/elections-officials/county-boards-of-elections-directory/)
 

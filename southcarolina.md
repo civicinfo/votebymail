@@ -8,14 +8,11 @@
 * [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
-* [Ballot drop box locations](#ballot-drop-box-locations)
 * [Links to official sources](#links-to-official-sources)
 
 
 #### Absentee/Mail-in eligibility
 A reason is required to request an absentee ballot - check eligibility [here](https://www.scvotes.gov/absentee-voting).
-
-NOTE: All voters were allowed to vote absentee during the primary election but those changes do not appear to apply to the general election.
 
 
 #### How to apply for absentee/mail-in ballot
@@ -39,10 +36,7 @@ Ballot should be signed in front of a witness and requires their signature.
 Ballots should be received by 7pm on Nov 3, 2020.
 
 
-#### Ballot drop box locations
-Information not available yet.
-
-
 #### Links to official sources
 * [Absentee voting in South Carolina](https://www.scvotes.gov/absentee-voting)
+* [South Carolina Voter Information Portal](https://www.scvotes.gov/)
 * [County voter registration offices](https://www.scvotes.gov/how-register-absentee-voting)
