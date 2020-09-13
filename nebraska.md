@@ -16,7 +16,7 @@ Any registered voter may request an early voting/absentee ballot.
 
 
 #### How to apply for absentee/mail-in ballot
-Fill out [the application form](https://sos.nebraska.gov/sites/sos.nebraska.gov/files/doc/elections/earlyvote_app_fill.pdf) and mail, email, fax or deliver to [the county election office](https://www.nvsos.gov/sos/elections/voters/county-clerk-contact-information).
+Fill out [the application form](https://sos.nebraska.gov/sites/sos.nebraska.gov/files/doc/elections/earlyvote_app_fill.pdf) and mail, email, fax or deliver to [the county election office](https://sos.nebraska.gov/elections/election-officials-contact-information).
 
 #### Absentee/mail-in application receipt deadline
 Oct 23, 2020
@@ -38,4 +38,4 @@ Some counties have drop boxes. Information will be updated as available.
 
 #### Links to official sources
 * [Early voting in Nebraska](https://sos.nebraska.gov/elections/early-voting-0)
-* [County election offices](https://www.nvsos.gov/sos/elections/voters/county-clerk-contact-information)
+* [County election offices](https://sos.nebraska.gov/elections/election-officials-contact-information)
