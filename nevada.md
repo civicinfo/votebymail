@@ -1,6 +1,6 @@
 ## NEVADA
 
-*Last Updated: Aug 22, 2020*
+*Last Updated: Sept 12, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [How to apply for absentee/mail-in ballot](#how-to-apply-for-absenteemail-in-ballot)
@@ -12,15 +12,13 @@
 
 
 #### Absentee/Mail-in eligibility
-Any registered voter may request an absentee ballot.
+Any registered voter may request an absentee ballot. All registered voters will be mailed a ballot for the 2020 election.
 
 #### How to apply for absentee/mail-in ballot
 * Fill out [the application form](https://www.nvsos.gov/sos/home/showdocument?id=8262) and submit to [the County Clerk](https://www.nvsos.gov/sos/elections/voters/county-clerk-contact-information)
 
-* Clark County: All registered voters will receive a mail ballot in 2020. 
+* All registered voters will be mailed a mail ballot in 2020. 
 
-**NOTE:** news sources seem to indicate that a mail ballot will be sent to all 
-voters, however, official sources are not reflecting this yet.
 
 #### Absentee/mail-in application receipt deadline
 Oct 20, 2020
