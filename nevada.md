@@ -37,6 +37,7 @@ Information not available yet.
 
 
 #### Links to official sources
+* [2020 General election information](https://www.nvsos.gov/sos/elections/election-information/2020-election/2020-general-election)
 * [Absentee voting in Nevada](https://www.nvsos.gov/sos/elections/voters/absentee-voting)
 * [Clark County voting information](https://www.clarkcountynv.gov/government/departments/elections/index.php)
 
