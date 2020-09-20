@@ -1,6 +1,6 @@
 ## Florida county information
 
-<br>- [Alachua](#Alachua-county-Florida) -- [Baker](#Baker-county-Florida) -- [Bay](#Bay-county-Florida) -- [Bradford](#Bradford-county-Florida) -- [Brevard](#Brevard-county-Florida) -<br>- [Broward](#Broward-county-Florida) -- [Calhoun](#Calhoun-county-Florida) -- [Charlotte](#Charlotte-county-Florida) -- [Citrus](#Citrus-county-Florida) -- [Clay](#Clay-county-Florida) -<br>- [Collier](#Collier-county-Florida) -- [Columbia](#Columbia-county-Florida) -- [DeSoto](#DeSoto-county-Florida) -- [Dixie](#Dixie-county-Florida) -- [Duval](#Duval-county-Florida) -<br>- [Escambia](#Escambia-county-Florida) -- [Flagler](#Flagler-county-Florida) -- [Franklin](#Franklin-county-Florida) -- [Gadsden](#Gadsden-county-Florida) -- [Gilchrist](#Gilchrist-county-Florida) -<br>- [Glades](#Glades-county-Florida) -- [Gulf](#Gulf-county-Florida) -- [Hamilton](#Hamilton-county-Florida) -- [Hardee](#Hardee-county-Florida) -- [Hendry](#Hendry-county-Florida) -<br>- [Hernando](#Hernando-county-Florida) -- [Highlands](#Highlands-county-Florida) -- [Hillsborough](#Hillsborough-county-Florida) -- [Holmes](#Holmes-county-Florida) -- [Indian River](#Indian-River-county-Florida) -<br>- [Jackson](#Jackson-county-Florida) -- [Jefferson](#Jefferson-county-Florida) -- [Lafayette](#Lafayette-county-Florida) -- [Lake](#Lake-county-Florida) -- [Lee](#Lee-county-Florida) -<br>- [Leon](#Leon-county-Florida) -- [Levy](#Levy-county-Florida) -- [Liberty](#Liberty-county-Florida) -- [Madison](#Madison-county-Florida) -- [Manatee](#Manatee-county-Florida) -<br>- [Marion](#Marion-county-Florida) -- [Martin](#Martin-county-Florida) -- [Miami-Dade](#Miami-Dade-county-Florida) -- [Monroe](#Monroe-county-Florida) -- [Nassau](#Nassau-county-Florida) -<br>- [Okaloosa](#Okaloosa-county-Florida) -- [Okeechobee](#Okeechobee-county-Florida) -- [Orange](#Orange-county-Florida) -- [Osceola](#Osceola-county-Florida) -- [Palm Beach](#Palm-Beach-county-Florida) -<br>- [Pasco](#Pasco-county-Florida) -- [Pinellas](#Pinellas-county-Florida) -- [Polk](#Polk-county-Florida) -- [Putnam](#Putnam-county-Florida) -- [Santa Rosa](#Santa-Rosa-county-Florida) -<br>- [Sarasota](#Sarasota-county-Florida) -- [Seminole](#Seminole-county-Florida) -- [St Johns](#St-Johns-county-Florida) -- [St Lucie](#St-Lucie-county-Florida) -- [Sumter](#Sumter-county-Florida) -<br>- [Suwannee](#Suwannee-county-Florida) -- [Taylor](#Taylor-county-Florida) -- [Union](#Union-county-Florida) -- [Volusia](#Volusia-county-Florida) -- [Wakulla](#Wakulla-county-Florida) -<br>- [Walton](#Walton-county-Florida) -- [Washington](#Washington-county-Florida) -
+<br> [Alachua](#alachua-county-florida) - [Baker](#baker-county-florida) - [Bay](#bay-county-florida) - [Bradford](#bradford-county-florida) - [Brevard](#brevard-county-florida) -<br> [Broward](#broward-county-florida) - [Calhoun](#calhoun-county-florida) - [Charlotte](#charlotte-county-florida) - [Citrus](#citrus-county-florida) - [Clay](#clay-county-florida) -<br> [Collier](#collier-county-florida) - [Columbia](#columbia-county-florida) - [DeSoto](#desoto-county-florida) - [Dixie](#dixie-county-florida) - [Duval](#duval-county-florida) -<br> [Escambia](#escambia-county-florida) - [Flagler](#flagler-county-florida) - [Franklin](#franklin-county-florida) - [Gadsden](#gadsden-county-florida) - [Gilchrist](#gilchrist-county-florida) -<br> [Glades](#glades-county-florida) - [Gulf](#gulf-county-florida) - [Hamilton](#hamilton-county-florida) - [Hardee](#hardee-county-florida) - [Hendry](#hendry-county-florida) -<br> [Hernando](#hernando-county-florida) - [Highlands](#highlands-county-florida) - [Hillsborough](#hillsborough-county-florida) - [Holmes](#holmes-county-florida) - [Indian River](#indian-river-county-florida) -<br> [Jackson](#jackson-county-florida) - [Jefferson](#jefferson-county-florida) - [Lafayette](#lafayette-county-florida) - [Lake](#lake-county-florida) - [Lee](#lee-county-florida) -<br> [Leon](#leon-county-florida) - [Levy](#levy-county-florida) - [Liberty](#liberty-county-florida) - [Madison](#madison-county-florida) - [Manatee](#manatee-county-florida) -<br> [Marion](#marion-county-florida) - [Martin](#martin-county-florida) - [Miami-Dade](#miami-dade-county-florida) - [Monroe](#monroe-county-florida) - [Nassau](#nassau-county-florida) -<br> [Okaloosa](#okaloosa-county-florida) - [Okeechobee](#okeechobee-county-florida) - [Orange](#orange-county-florida) - [Osceola](#osceola-county-florida) - [Palm Beach](#palm-beach-county-florida) -<br> [Pasco](#pasco-county-florida) - [Pinellas](#pinellas-county-florida) - [Polk](#polk-county-florida) - [Putnam](#putnam-county-florida) - [Santa Rosa](#santa-rosa-county-florida) -<br> [Sarasota](#sarasota-county-florida) - [Seminole](#seminole-county-florida) - [St Johns](#st-johns-county-florida) - [St Lucie](#st-lucie-county-florida) - [Sumter](#sumter-county-florida) -<br> [Suwannee](#suwannee-county-florida) - [Taylor](#taylor-county-florida) - [Union](#union-county-florida) - [Volusia](#volusia-county-florida) - [Wakulla](#wakulla-county-florida) -<br> [Walton](#walton-county-florida) - [Washington](#washington-county-florida) -
 
 
 
@@ -24,7 +24,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.votealachua.com/Voters/Vote-by-Mail/Vote-by-Mail-Ballot-Drop-Boxes) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Baker county, Florida
 
@@ -46,7 +46,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Bay county, Florida
 
@@ -68,7 +68,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Bradford county, Florida
 
@@ -90,7 +90,7 @@
 #### Ballot drop box locations
 *  A drop box is located outside of the North Wing of the Courthouse. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Brevard county, Florida
 
@@ -112,7 +112,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.votebrevard.gov/Ballots-by-Mail/Mail-Ballot-Information#question9) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Broward county, Florida
 
@@ -134,7 +134,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Calhoun county, Florida
 
@@ -156,7 +156,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Charlotte county, Florida
 
@@ -178,7 +178,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Citrus county, Florida
 
@@ -200,7 +200,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Clay county, Florida
 
@@ -222,7 +222,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Collier county, Florida
 
@@ -244,7 +244,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Columbia county, Florida
 
@@ -266,7 +266,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Main Election office and branch office at Ft White. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### DeSoto county, Florida
 
@@ -288,7 +288,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Dixie county, Florida
 
@@ -310,7 +310,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Duval county, Florida
 
@@ -332,7 +332,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Escambia county, Florida
 
@@ -354,7 +354,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Flagler county, Florida
 
@@ -376,7 +376,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Franklin county, Florida
 
@@ -398,7 +398,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Gadsden county, Florida
 
@@ -420,7 +420,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Gilchrist county, Florida
 
@@ -442,7 +442,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Glades county, Florida
 
@@ -464,7 +464,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Gulf county, Florida
 
@@ -486,7 +486,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Hamilton county, Florida
 
@@ -508,7 +508,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Hardee county, Florida
 
@@ -530,7 +530,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Hendry county, Florida
 
@@ -552,7 +552,7 @@
 #### Ballot drop box locations
 *  At County Elections offices in LaBelle and Clewiston 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Hernando county, Florida
 
@@ -574,7 +574,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.hernandovotes.com/Vote-By-Mail-Drop-Boxes) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Highlands county, Florida
 
@@ -596,7 +596,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Hillsborough county, Florida
 
@@ -618,7 +618,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Holmes county, Florida
 
@@ -640,7 +640,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at the Election Supervisor&#39;s office. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Indian River county, Florida
 
@@ -662,7 +662,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Jackson county, Florida
 
@@ -684,7 +684,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Jefferson county, Florida
 
@@ -706,7 +706,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Lafayette county, Florida
 
@@ -728,7 +728,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Lake county, Florida
 
@@ -750,7 +750,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Lee county, Florida
 
@@ -772,7 +772,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Leon county, Florida
 
@@ -794,7 +794,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.leonvotes.gov/Voters/Early-Voting/Drop-Boxes) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Levy county, Florida
 
@@ -816,7 +816,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Liberty county, Florida
 
@@ -838,7 +838,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Madison county, Florida
 
@@ -860,7 +860,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Manatee county, Florida
 
@@ -882,7 +882,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Marion county, Florida
 
@@ -904,7 +904,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Martin county, Florida
 
@@ -926,7 +926,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Miami-Dade county, Florida
 
@@ -948,7 +948,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.miamidade.gov/elections/library/2020-general-early-voting-schedule.pdf) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Monroe county, Florida
 
@@ -970,7 +970,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Nassau county, Florida
 
@@ -992,7 +992,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.votenassau.com/Voting-How-When-Where/Ballot-Drop-off-Locations) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Okaloosa county, Florida
 
@@ -1014,7 +1014,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Okeechobee county, Florida
 
@@ -1036,7 +1036,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Orange county, Florida
 
@@ -1058,7 +1058,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Osceola county, Florida
 
@@ -1080,7 +1080,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Palm Beach county, Florida
 
@@ -1102,7 +1102,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Pasco county, Florida
 
@@ -1124,7 +1124,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Pinellas county, Florida
 
@@ -1146,7 +1146,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.votepinellas.com/Election-Information/Ballot-Drop-off-Locations) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Polk county, Florida
 
@@ -1168,7 +1168,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Putnam county, Florida
 
@@ -1190,7 +1190,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Santa Rosa county, Florida
 
@@ -1212,7 +1212,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Sarasota county, Florida
 
@@ -1234,7 +1234,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Seminole county, Florida
 
@@ -1256,7 +1256,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### St Johns county, Florida
 
@@ -1278,7 +1278,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.votesjc.com/Returning-Your-Ballot) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### St Lucie county, Florida
 
@@ -1300,7 +1300,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at Early voting sites 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Sumter county, Florida
 
@@ -1322,7 +1322,7 @@
 #### Ballot drop box locations
 *  Ballot drop boxes are available at elections offices and early voting sites. 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Suwannee county, Florida
 
@@ -1344,7 +1344,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Taylor county, Florida
 
@@ -1366,7 +1366,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Union county, Florida
 
@@ -1388,7 +1388,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Volusia county, Florida
 
@@ -1410,7 +1410,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Wakulla county, Florida
 
@@ -1432,7 +1432,7 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Walton county, Florida
 
@@ -1454,7 +1454,7 @@
 #### Ballot drop box locations
 *  [Locations](https://www.votewalton.com/Voting/Ways-to-Vote/Ballot-Drop-Boxes) 
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
 ### Washington county, Florida
 
@@ -1476,5 +1476,5 @@
 #### Ballot drop box locations
 *  Please contact the supervisor's office for ballot drop box information.
 
-<sup><sub><b>[back to top](#Florida-county-information)</b></sub></sup>
+<sup><sub><b>[back to top](#florida-county-information)</b></sub></sup>
 
