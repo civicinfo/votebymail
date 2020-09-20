@@ -20,12 +20,13 @@ The following information is included for each state as available:
 * Ballot drop box locations
 * Links to official sources
 
+***NEW!*** County specific information is now available for some states - please see the table below.
 
 | | | | |
 | --- | --- | --- | --- |
 | [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) | 
 | [California](california.md) | [Colorado](colorado.md) | [Connecticut](connecticut.md)| [Delaware](delaware.md)| 
-| [District of Columbia (DC)](dc.md) | [Florida](florida.md) | [Georgia](georgia.md) | [Hawaii](hawaii.md) | 
+| [District of Columbia (DC)](dc.md) | [Florida](florida.md) (*[County information](counties/florida.md#Florida-county-information)* )| [Georgia](georgia.md) | [Hawaii](hawaii.md) | 
 | [Idaho](idaho.md) | [Illinois](illinois.md) | [Indiana](indiana.md) | [Iowa](iowa.md) |
 | [Kansas](kansas.md) | [Kentucky](kentucky.md) | [Louisiana](louisiana.md) | [Maine](maine.md) | 
 | [Maryland](maryland.md) | [Massachusetts](massachusetts.md) | [Michigan](michigan.md) | [Minnesota](minnesota.md) | 
