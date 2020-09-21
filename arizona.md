@@ -7,7 +7,7 @@
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
-* [Ballot drop box locations](#ballot-drop-box-locations)
+* [Early voting and Ballot drop box information](#early-voting-and-ballot-drop-box-information)
 * [Links to official sources](#links-to-official-sources)
 
 
@@ -34,17 +34,18 @@ Oct 23, 2020
 
 #### How to return absentee/mail-in ballot
 * Mail
-* Dropoff ballot at any ballot drop box, early voting location or Election Day voting location.
+* Dropoff ballot at any ballot drop box, early voting location or Election Day vote center.
 
 
 #### Ballot return deadline
 Ballot must be received by 7pm on Nov 3, 2020.
 
 
-#### Ballot drop box locations
-Not yet known.
+#### Early voting and Ballot drop box information
+* [Per-county information](counties/arizona.md#arizona-county-information)
 
 
 #### Links to official sources
+* [Arizona voter information portal](https://my.arizona.vote/PortalList.aspx)
 * [Arizona Vote by Mail information](https://azsos.gov/votebymail)
 * [County Recorder Offices](https://azsos.gov/county-election-info)

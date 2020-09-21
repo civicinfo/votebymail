@@ -17,16 +17,16 @@ The following information is included for each state as available:
 * Absentee/mail-in ballot requirements
 * How to return absentee/mail-in ballot
 * Ballot return deadline
-* Ballot drop box locations
+* Early voting and ballot drop box information
 * Links to official sources
 
-***NEW!*** County specific information is now available for some states - please see the table below.
+<span style="color: red;"><b>NEW!</b></span> County specific early voting and ballot drop box information is now available for Arizona and Florida. Click through to the state page for the links.
 
 | | | | |
 | --- | --- | --- | --- |
 | [Alabama](alabama.md) | [Alaska](alaska.md) | [Arizona](arizona.md) | [Arkansas](arkansas.md) | 
 | [California](california.md) | [Colorado](colorado.md) | [Connecticut](connecticut.md)| [Delaware](delaware.md)| 
-| [District of Columbia (DC)](dc.md) | [Florida](florida.md) (*[County information](counties/florida.md#Florida-county-information)* )| [Georgia](georgia.md) | [Hawaii](hawaii.md) | 
+| [District of Columbia (DC)](dc.md) | [Florida](florida.md) | [Georgia](georgia.md) | [Hawaii](hawaii.md) | 
 | [Idaho](idaho.md) | [Illinois](illinois.md) | [Indiana](indiana.md) | [Iowa](iowa.md) |
 | [Kansas](kansas.md) | [Kentucky](kentucky.md) | [Louisiana](louisiana.md) | [Maine](maine.md) | 
 | [Maryland](maryland.md) | [Massachusetts](massachusetts.md) | [Michigan](michigan.md) | [Minnesota](minnesota.md) | 

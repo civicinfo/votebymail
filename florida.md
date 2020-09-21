@@ -7,9 +7,9 @@
 * [Absentee/mail-in application receipt deadline](#absenteemail-in-application-receipt-deadline)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
+* [Early voting and ballot drop box information](#early-voting-and-ballot-drop-box-information)
 * [Links to official sources](#links-to-official-sources)
 
-***Newly updated!*** [County-by-county ballot drop box and early voting information](counties/florida.md#florida-county-information)
 
 #### Absentee/Mail-in eligibility
 Any registered voter is eligible to request a vote by mail ballot.
@@ -32,6 +32,9 @@ Oct 24, 2020
 
 #### Ballot return deadline
 Ballots should be received before 7pm on Nov 3, 2020
+
+#### Early voting and ballot drop box information
+* [Per-county information](counties/florida.md#florida-county-information)
 
 
 #### Links to official sources
