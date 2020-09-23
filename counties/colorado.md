@@ -326,9 +326,9 @@
 ### Kit Carson county, Colorado
 
 * [Elections website](https://kitcarsoncounty.colorado.gov/clerk-recorder/elections) 
-* Ballot drop boxes:  [Locations](https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/2020_Primary_Polling_Locations.pdf) 
+* Ballot drop boxes:  [Locations](https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/2020_General_Polling_Locations%202.pdf) 
 * Early voting: Early voting in Colorado begins on Oct 19. Please check vote center opening dates and times.
-* Vote centers:  [Locations](https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/2020_Primary_Polling_Locations.pdf) 
+* Vote centers:  [Locations](https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/2020_General_Polling_Locations%202.pdf) 
 
 
 <sup><sub><b>[back to top](#colorado-county-information)</b></sub></sup>
