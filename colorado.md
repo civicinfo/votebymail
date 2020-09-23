@@ -1,12 +1,12 @@
 ## COLORADO
 
-*Last updated: Aug 24, 2020*
+*Last updated: Sept 22, 2020*
 
 * [Absentee/Mail-in eligibility](#absenteemail-in-eligibility)
 * [Absentee/mail-in ballot requirements](#absenteemail-in-ballot-requirements)
 * [How to return absentee/mail-in ballot](#how-to-return-absenteemail-in-ballot)
 * [Ballot return deadline](#ballot-return-deadline)
-* [Ballot drop box locations](#ballot-drop-box-locations)
+* [Early voting and Ballot drop box information](#early-voting-and-ballot-drop-box-information)
 * [Links to official sources](#links-to-official-sources)
 
 
@@ -23,8 +23,8 @@ Colorado votes by mail. All registered voters will be sent a mail ballot.
 Ballot should be received by the county clerk by 7pm on Nov 3, 2020.
 
 
-#### Ballot drop box locations
-Info not yet available
+#### Early voting and Ballot drop box information
+[Per-county information](counties/colorado.md#colorado-county-information)
 
 
 #### Links to official sources

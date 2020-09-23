@@ -20,7 +20,7 @@ The following information is included for each state as available:
 * Early voting and ballot drop box information
 * Links to official sources
 
-<span style="color: red;"><b>NEW!</b></span> County specific early voting and ballot drop box information is now available for Arizona and Florida. Click through to the state page for the links.
+<span style="color: red;"><b>NEW!</b></span> County specific early voting and ballot drop box information is now available for Arizona, Colorado and Florida. Click through to the state page for the links.
 
 | | | | |
 | --- | --- | --- | --- |
